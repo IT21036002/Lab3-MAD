@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tute1</string>
+    <string name="btnSend">SEND</string>
+    <string name="hntmessage">Enter a message</string>
+</resources>
